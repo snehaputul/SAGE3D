@@ -1,4 +1,4 @@
-# Point Cloud as a Foreign Language for Multi-modal Large Language Model
+# Point Cloud as a Foreign Language for Multi-modal Large Language Model (CVPR 2026)
 
 [Arxiv](https://arxiv.org/abs/2603.09173)
 
