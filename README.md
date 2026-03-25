@@ -1,5 +1,7 @@
 # Point Cloud as a Foreign Language for Multi-modal Large Language Model
 
+[Arxiv](https://arxiv.org/abs/2603.09173)
+
 Official repository for the paper "Point Cloud as a Foreign Language for Multi-modal Large Language Model"
 ## 🏠 Abstract
 Multi-modal large language models (MLLMs) have shown remarkable progress in integrating visual and linguistic understanding. Recent efforts have extended these capabilities to 3D understanding through encoder-based architectures that rely on pre-trained 3D encoders to extract geometric features. However, such approaches suffer from semantic misalignment between geometric and linguistic spaces, resolution sensitivity, and substantial computational overhead.
